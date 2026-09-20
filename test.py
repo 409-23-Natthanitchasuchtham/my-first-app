@@ -1,4 +1,4 @@
-import streamlit as str
+import streamlit as st
 
 # 1. กำหนดหัวข้อเว็บ
 st.title("ระบบคำนวณราคาสินค้าอัจฉริยะ 🛒")
